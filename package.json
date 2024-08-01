@@ -22,7 +22,7 @@
     "ES7"
   ],
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha",
+    "bootstrap": "^5.0.0",
     "classlist-polyfill": "^1.0",
     "classnames": "^2.2",
     "core-decorators": "^0.15",
